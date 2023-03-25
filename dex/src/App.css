@@ -38,7 +38,7 @@ header {
 }
 
 .headerItem {
-  padding: 10px;
+  padding: 30px;
   padding-left: 15px;
   padding-right: 15px;
   border-radius: 5px;
@@ -82,8 +82,8 @@ header {
 
 .tradeBox {
   width: 400px;
-  background-color: #0E111B;
-  border: 2px solid #21273a;
+  background-color: #202225;
+  border: 2px solid #3b3c3f;
   min-height: 300px;
   border-radius: 15px;
   display: flex;
@@ -103,7 +103,7 @@ header {
 }
 
 .cog {
-  color: #51586f;
+  color: #b10c7a;
   transition: 0.3s;
 }
 
